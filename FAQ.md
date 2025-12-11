@@ -5,7 +5,7 @@
 
 For the best experience with bolt.diy, we recommend using the following models:
 
-- **Claude 3.5 Sonnet (old)**: Best overall coder, providing excellent results across all use cases
+- **Claude 3.5 Sonnet (old)**: Best overall coder, providing excellent results across all use cases 
 - **Gemini 2.0 Flash**: Exceptional speed while maintaining good performance
 - **GPT-4o**: Strong alternative to Claude 3.5 Sonnet with comparable capabilities
 - **DeepSeekCoder V2 236b**: Best open source model (available through OpenRouter, DeepSeek API, or self-hosted)
